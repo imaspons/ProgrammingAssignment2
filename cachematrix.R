@@ -39,7 +39,7 @@ cacheSolve <- function(x, ...) {
     inv ## Returns a matrix that is the inverse of 'x'
 }
 
-## Example
+## Testing the code
 
 r_dat = rnorm(250000)
 mat_r = matrix(r_dat, nrow=500, ncol=500)
